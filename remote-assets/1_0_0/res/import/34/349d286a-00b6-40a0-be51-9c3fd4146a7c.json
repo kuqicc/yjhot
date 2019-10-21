@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"toast","_duration":0.3333333333333333,"speed":0.2,"wrapMode":0,"curveData":{"props":{"y":[{"frame":0,"value":0},{"frame":0.3333333333333333,"value":320}],"opacity":[{"frame":0,"value":255},{"frame":0.3333333333333333,"value":100}]}}}
